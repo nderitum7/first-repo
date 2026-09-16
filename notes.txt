@@ -4,4 +4,4 @@
 4. open vs code with 'code .'
 5. create a notes.txt file and take note of the letter u - representing untracked
 
-6. git status'gi check the status of our local repo
+6. 'git status' check the status of our local repo
