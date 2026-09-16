@@ -5,3 +5,10 @@
 5. create a notes.txt file and take note of the letter u - representing untracked
 
 6. 'git status' check the status of our local repo
+7. create a new repo on github
+8. choose ssh then push an existing repository from the command line
+the copy 
+git remote add origin git@github.com:nderitum7/mercy-mercy.git first
+git branch -M main 2nd
+git push -u origin main 3rd
+9.
